@@ -1,0 +1,22 @@
+# Datos de entrada (TCGA-BRCA): no se versionan, ver README
+data/
+*.tsv
+*.csv.gz
+
+# Resultados generados por los scripts
+output/
+Rplots.pdf
+
+# Las figuras seleccionadas para el README sí se versionan
+!figures/
+
+# Entorno de R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
