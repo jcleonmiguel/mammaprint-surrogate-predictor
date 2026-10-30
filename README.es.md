@@ -78,9 +78,6 @@ Sobre las 193 muestras de test:
 
 La sensibilidad es claramente inferior a la especificidad, algo esperable con una prevalencia de alto riesgo del 26%: el modelo acierta casi siempre en los casos de bajo riesgo y se le escapan alrededor de uno de cada cinco casos de alto riesgo. En un contexto pronóstico real, ese es el error que más importaría corregir.
 
-**Comparación de modelos (parte II)**
-
-Pendiente de completar con los resultados de `02_model_comparison.R`.
 
 ## Estructura
 
