@@ -78,10 +78,6 @@ On the 193 held-out test samples:
 
 Sensitivity is clearly lower than specificity, which is what you would expect at a 26% high risk prevalence: the model is almost always right on low risk cases and misses roughly one in five high risk ones. In a real prognostic setting that is the error worth fixing first.
 
-**Model comparison (part II)**
-
-To be completed with the output of `02_model_comparison.R`.
-
 ## Repository layout
 
 ```
